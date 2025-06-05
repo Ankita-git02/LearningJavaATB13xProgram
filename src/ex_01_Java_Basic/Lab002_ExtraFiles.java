@@ -4,5 +4,6 @@ public class Lab002_ExtraFiles {
     public static void main(String[] args) {
 
         System.out.println("Addition of two no "+ (2+2));
+        System.out.println("Helo word");
     }
 }
