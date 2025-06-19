@@ -6,7 +6,7 @@ public class Increment_ex3 {
 
         System.out.println(++x); // Output: ? 6
 
-        System.out.println(x++); // Output: ? 6
+       System.out.println(x++); // Output: ? 6
 
         System.out.println(x);//7
     }
