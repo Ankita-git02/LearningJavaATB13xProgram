@@ -13,6 +13,7 @@ public class Challange7_LargetstNo {
         int c= sc.nextInt();
         if (a==b||b==c||c==a) {
             System.out.println("cannot be calculate");
+            System.out.println("Becasue no is same");
         } else if(a>b && a>c ){
             System.out.println(a+" is Large");
         }else if(b>a && b>c){
